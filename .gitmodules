@@ -1,0 +1,3 @@
+[submodule "pngstore"]
+	path = pngstore
+	url = https://github.com/iamcal/PNGStore.git
